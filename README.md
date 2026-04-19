@@ -236,7 +236,7 @@ This project demonstrates:
 
 ```
 
-capstone-ecommerce-analysis/
+Capstone_Ecommerce_Analysis/
 
 │
 
