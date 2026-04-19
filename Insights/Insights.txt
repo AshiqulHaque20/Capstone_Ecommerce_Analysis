@@ -1,0 +1,50 @@
+E-commerce Customer Segmentation – Key Insights
+
+---
+
+## Business Insights
+
+1. Overall Business Performance
+   The dataset shows approximately 198,000 total orders and around 99,000 unique customers, generating total revenue of nearly 16 million. This indicates a moderate customer base with significant transaction volume.
+
+2. Customer Purchase Behavior
+   The number of unique customers is close to the total number of orders, suggesting that most customers make only one purchase. This indicates low repeat purchase behavior and highlights a retention issue.
+
+3. Revenue Trend Over Time
+   Monthly revenue shows a steady increase starting from early 2017, peaking around November 2017. However, a sharp decline is observed in September and October 2018, which may indicate missing data or a drop in business activity.
+
+4. Top Performing Categories
+   Health and beauty products generate approximately 1.25 million in revenue, followed by the watches and gifts category with around 1.20 million. This indicates that the business relies heavily on a few key product categories.
+
+5. High-Value Customers
+   A small group of customers contributes disproportionately to total revenue, showing the presence of high-value customers that are critical to the business.
+
+---
+
+## RFM Insights
+
+6. Customer Distribution
+   A large portion of customers fall into the "Others" and "Lost Customer" segments. This indicates that most users are either low-engagement or inactive, highlighting a major retention challenge.
+
+7. High-Value Customers Are Being Lost
+   The "Lost Customer" segment has the highest average spending, indicating that previously valuable customers are no longer active.
+
+8. Strong Acquisition but Weak Retention
+   "New Customers" show high average spending, suggesting effective customer acquisition. However, many do not return, pointing toward weak retention strategies.
+
+9. Loyal vs High-Value Customers
+   "Champion" and "Loyal Customer" segments tend to have lower average spending, meaning they purchase frequently but with smaller transaction values.
+
+10. At Risk Customers
+    Customers in the "At Risk" segment were previously active but are now becoming inactive, making them ideal targets for re-engagement campaigns.
+
+11. Revenue Concentration
+    A significant portion of revenue comes from non-loyal segments such as "Others" and "Lost Customers", indicating that revenue is not strongly driven by long-term loyal users.
+
+---
+
+## Final Conclusion
+
+The business demonstrates strong customer acquisition and generates substantial revenue, but suffers from poor customer retention. A large number of customers make only one purchase, and high-value customers are being lost over time.
+
+Improving retention through loyalty programs, personalized marketing, and re-engagement strategies can significantly enhance long-term revenue and customer lifetime value.
